@@ -1,0 +1,9 @@
+Fungsi export file dengan codeigniter ini sangat berguna bagi kita sebagai developer dalam membuat sebuah sistem berbasis web, karna fungsi export file excel adalah fitur yang wajib ada didalam sebuah sistem entah itu dalam modul laporan atau semacamnya tergantung kebutuhan sistem yang akan kita buat.
+
+Didalam tutorial export file dengan codeigniter ini kita akan menggunakan PHPOffice/Spreadsheet sehingga ada tools yang mesti disediakan yaitu composer, fungsi composer ini untuk install PHPOffice/Spreadsheet karena kita tidak bisa hanya dengan mendownload filenya saja.
+
+1. install Composer Terlebih dahulu
+   https://getcomposer.org/download/
+   
+2. install PHPOffice/PHPSpreadsheet
+   https://github.com/PHPOffice/PhpSpreadsheet
