@@ -7,3 +7,10 @@ Didalam tutorial export file dengan codeigniter ini kita akan menggunakan PHPOff
    
 2. install PHPOffice/PHPSpreadsheet
    https://github.com/PHPOffice/PhpSpreadsheet
+
+
+Link :
+https://bahasaweb.com/membuat-export-file-excel-dengan-codeigniter/
+https://phpspreadsheet.readthedocs.io/en/latest/topics/recipes/
+https://phpspreadsheet.readthedocs.io/en/latest/topics/recipes/#setting-a-columns-width
+https://github.com/PHPOffice/PhpSpreadsheet/issues/335
